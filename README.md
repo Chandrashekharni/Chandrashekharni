@@ -1,21 +1,30 @@
 <h1 align="center">Hi 👋, I'm Chandra Shekhar</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">💻Java Stack Developer | 🚀 Passionate about Web Development</h3>
+
+---
+
+### 🌟 About Me
+- 🌱 Learning **Backend(MongoDB,MySql,Java,SpringBoot,)**  
+- 💬 Ask me about **Frontend Development, React, Node.js, Express**  
+- 📫 How to reach me **chandrashekharni40@gmail.com** 
+- ⚡ Fun fact: *I love turning ideas into real projects!*  
+
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrashekharni&label=Profile%20views&color=0e75b6&style=flat" alt="chandrashekharni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandrashekharni" alt="chandrashekharni" /></a> </p>
 
-- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **spring Boot**
-
-- 📫 How to reach me **chandrashekharni40@gmail.com**
-
-- ⚡ Fun fact **I think i am funny**
-
-<h3 align="left">Connect with me:</h3>
+### 🌐 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/chandrashekhar22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandrashekhar22" height="30" width="40" /></a>
+  <a href="www.linkedin.com/in/chandrashekhar22/-" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:cs0081933@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
 <a href="https://www.hackerrank.com/@cs0081933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@cs0081933" height="30" width="40" /></a>
 </p>
 
