@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/chandrashekhar22" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="cs0081933@gmail.com">
+  <a href="http://cs0081933@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
   </a>
 <a href="https://www.hackerrank.com/profile/cs0081933" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@cs0081933" height="30" width="40" /></a>
