@@ -19,9 +19,7 @@
 
 ### 🌐 Connect with Me
 <p align="left">
-  <a href="www.linkedin.com/in/
-chandrashekhar22
-" target="blank">
+  <a href="https://www.linkedin.com/in/chandrashekhar22" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="cs0081933@gmail.com">
